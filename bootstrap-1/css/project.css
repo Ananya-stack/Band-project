@@ -1,0 +1,113 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+.intro-section{
+  margin: 50px auto;
+  text-align: center;
+  font-family: 'Vesper Libre', serif;
+}
+h2{
+  text-align: center;
+}
+.intro-section-1{
+  text-align: center;
+  font-size: 14px;
+  padding-top: 15px;
+}
+.intro-para{
+  text-align:center;
+  margin: 0 50px;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+.intro-section-1{
+  padding-top:30px;
+  text-align: center;
+  font-family: 'Vesper Libre', serif;
+}
+/* tour column */
+.details-card{
+  margin-right: 15px!important;
+  margin-left: 117px!important;
+}
+.Tour-section{
+  background-color: #222831;
+}
+.tour-heading{
+  color: #eeeeee;
+    font-family: 'Vesper Libre', serif;
+}
+.tour-para{
+  color: #eeeeee;
+    font-family: 'Vesper Libre', serif;
+    text-align: center;
+}
+.para-tour{
+  color: #534e52;
+}
+.alert{
+  margin-bottom: 0!important;
+}
+.tour-heading{
+  margin-top:40px;
+}
+.badge{
+  color: #eeeeee;
+}
+
+.card-title{
+    font-family: 'Vesper Libre', serif;
+}
+.date-part{
+  font-family: 'Vesper Libre', serif;
+}
+.container{
+  padding-bottom:60px;
+}
+.contact-heading{
+padding-top: 30px;
+font-family: 'Vesper Libre', serif;
+}
+.contact-para{
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  font-family: 'Vesper Libre', serif;
+}
+.logo-image{
+  width: 5%;
+  float: left;
+  margin-right: 20px;
+}
+.column-content{
+/* margin-bottom:10px; */
+text-align: left;
+}
+.link-image{
+  width:3%;
+  margin:
+}
+.footer-link:hover{
+  color: #e6e6e6;
+}
+.footer-section{
+  text-align: center!important;
+  padding: 30px;
+}
+.form-column{
+  margin-bottom: 5px!important;
+}
+.form-button{
+  margin-top: 5px!important;
+
+}
+.map-img{
+  width: 100%;
+  background-size: cover;
+  background-position: center center;
+}
+p{
+  text-align: center;
+  /* padding: 20px; */
+}
